@@ -1,0 +1,11 @@
+# 1. Python Artifacts
+__pycache__/
+.python-version
+
+# 2. Local Virtual Environments
+# The standard local one (if you have one)
+.venv/
+
+# 4. Environment Variables / Secrets
+.env
+
