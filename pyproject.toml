@@ -11,3 +11,7 @@ agents = [
     "langchain>=1.2.6",
     "langgraph>=1.0.6",
 ]
+
+dev = [
+    "ipykernel>=7.1.0",
+]
